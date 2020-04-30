@@ -24,6 +24,8 @@ Hasil pekerjaan submit pada repository github masing-masing.
 
 **JAWABAN**
 
-1. 
+1. Membuat mockup/sketsa desain
+
+
 
 2.
