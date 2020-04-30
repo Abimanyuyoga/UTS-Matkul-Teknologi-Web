@@ -54,3 +54,8 @@ Hasil pekerjaan submit pada repository github masing-masing.
 ![CSS6](https://user-images.githubusercontent.com/46512870/80677908-089e7380-8ae4-11ea-968b-815f704f6b8f.png)
 
 ![CSS7](https://user-images.githubusercontent.com/46512870/80677923-0fc58180-8ae4-11ea-8828-562b1b59d77a.png)
+
+**Hasil HTML Dan CSS Web Company Profile**
+
+![WebCompanyProfil](https://user-images.githubusercontent.com/46512870/80679407-04278a00-8ae7-11ea-93bc-5fa5d26bbc7f.png)
+
