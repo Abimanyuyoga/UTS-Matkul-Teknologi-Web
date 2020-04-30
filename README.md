@@ -26,7 +26,7 @@ Hasil pekerjaan submit pada repository github masing-masing.
 
 **1. Membuat mockup/sketsa desain**
 
-![jawaban uts no 1](https://user-images.githubusercontent.com/46512870/80675689-52d12600-8adf-11ea-8f35-26f68e9fb6a0.png)
+![jawaban uts no 1](https://user-images.githubusercontent.com/46512870/80675984-f589a480-8adf-11ea-8568-2013731c13c2.png)
 
 **2. Membuat HTML dan CSS berdasarkan mockup desain tersebut**
 
