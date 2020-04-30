@@ -24,7 +24,7 @@ Hasil pekerjaan submit pada repository github masing-masing.
 
 **JAWABAN**
 
-**1. Membuat mockup/sketsa desain**
+**1. Membuat mockup/sketsa desain web company profile**
 
 ![jawaban uts no 1](https://user-images.githubusercontent.com/46512870/80675984-f589a480-8adf-11ea-8568-2013731c13c2.png)
 
@@ -32,6 +32,11 @@ Hasil pekerjaan submit pada repository github masing-masing.
 
 **Membuat HTML**
 
+![HTML1](https://user-images.githubusercontent.com/46512870/80676780-b2c8cc00-8ae1-11ea-98b5-af80d00f4c98.png)
+
+![HTML2](https://user-images.githubusercontent.com/46512870/80676787-b52b2600-8ae1-11ea-95cf-0a70a9e647a6.png)
+
+![HTML3](https://user-images.githubusercontent.com/46512870/80676795-b8bead00-8ae1-11ea-9e62-70843c561756.png)
 
 
-
+**Membuat CSS**
