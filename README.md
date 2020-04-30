@@ -40,3 +40,17 @@ Hasil pekerjaan submit pada repository github masing-masing.
 
 
 **Membuat CSS**
+
+![CSS1](https://user-images.githubusercontent.com/46512870/80677869-f3294980-8ae3-11ea-8f1e-a8e1d7b6667f.png)
+
+![CSS2](https://user-images.githubusercontent.com/46512870/80677876-f7556700-8ae3-11ea-858b-570a3a2540b9.png)
+
+![CSS3](https://user-images.githubusercontent.com/46512870/80677883-fae8ee00-8ae3-11ea-9cb8-e893790c7abb.png)
+
+![CSS4](https://user-images.githubusercontent.com/46512870/80677892-fe7c7500-8ae3-11ea-800e-ce931f06cb07.png)
+
+![CSS5](https://user-images.githubusercontent.com/46512870/80677903-050aec80-8ae4-11ea-82b0-668983f0cfe2.png)
+
+![CSS6](https://user-images.githubusercontent.com/46512870/80677908-089e7380-8ae4-11ea-968b-815f704f6b8f.png)
+
+![CSS7](https://user-images.githubusercontent.com/46512870/80677923-0fc58180-8ae4-11ea-8828-562b1b59d77a.png)
