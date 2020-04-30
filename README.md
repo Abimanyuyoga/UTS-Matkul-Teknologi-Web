@@ -12,7 +12,7 @@
 
 1. Buat mockup/sketsa desain (gunakan tool bebas, contoh: photoshop, figma, dll)
 
-2. Buat HTML dan CSS berdasarkan mockup desai tersebut
+2. Buat HTML dan CSS berdasarkan mockup desain tersebut
 
 **Tema Desain Web:**
 
@@ -24,8 +24,14 @@ Hasil pekerjaan submit pada repository github masing-masing.
 
 **JAWABAN**
 
-1. Membuat mockup/sketsa desain
+**1. Membuat mockup/sketsa desain**
+
+![jawaban uts no 1](https://user-images.githubusercontent.com/46512870/80675689-52d12600-8adf-11ea-8f35-26f68e9fb6a0.png)
+
+**2. Membuat HTML dan CSS berdasarkan mockup desain tersebut**
+
+**Membuat HTML**
 
 
 
-2.
+
