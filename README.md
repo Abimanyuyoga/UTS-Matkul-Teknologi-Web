@@ -25,3 +25,5 @@ Hasil pekerjaan submit pada repository github masing-masing.
 **JAWABAN**
 
 1. 
+
+2.
